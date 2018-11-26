@@ -1,0 +1,58 @@
+Hello Friends, Its wonderful to see, many people like to losen up some relationship. Many of you really dont like 
+relationship. So, lets get started. --- slide start image: 
+
+First, little bit introduction of my self. I am Kunjan. A consultant at Capgemini. You can catch me at my site http://kunjan.in 
+where I occationally blog. And also you can follow me at twitter @kunjee, yup that is my nick name. --- gravetarimage with link and twitter id
+
+
+So, let get started. --- NoSQL image : not only sql image
+
+Like you I also heard about NoSQL. Or I must say, heard a lot about NoSQL. And like you all, I ask question to Google God, what is this NoSQL?
+Is it a solution to all? Is it a final solution? Is it a silver bullet? May be after this session we will or we know a way to find out the answer. -- puzzle frog image
+
+How many of you are in relationship, married, engaged? As of now or ever been. So, you know what relationship brings. With every lovel monent it brings some issues, with dependency it also has due a price you need to pay. --- relation ship image
+
+And we have lots of company and more than enough option for solution. --- multiple NoSQL solution image
+
+We go and check them out one by one, and complete this slide show as soon as possible. So, we can checkout some real code. I hope you people are not a big fan of slideshow, like business guys. 
+
+
+NoSQL Defination: The original intention has been modern web-scale database.
+        The movement Next Generation Databases mostly addressing some of points: being non-relational,
+        distributed, open-souce and horizontally scalable. - nosql-database.org
+
+There are main four types in NoSQL we can say. Eventually all are key value pair. But for the sake of understanding we can divide them into main four part.
+
+Will look into details one by one. 
+
+First is traditional Key - Value store: DynamoDB, Azure Table Storage, Riak, Redis --- Details of Key value store 
+
+Second is document store - Mongodb, Couchdb, Ravendb --- Details of document store
+
+Third is Wide Column Store: hadoop, cassandra, hypertable, amazon simpledb --- Details of wide column store
+
+Forth is Graph Store : Neo4j, Infinite Graph, Sones --- Details of Graph Store
+
+Come to the Real World
+
+This database are ACID complience --- ACID image
+
+It is there before I born. Its just not there for application development. In many cases its not there for service based development.
+
+It has highest ingest rate
+
+Michale Canedy Bechmark
+
+Scaling
+
+Am providing strong alternative to your favorite orcle, sqlserver, mysql, postgresql etc. RDBMS?
+
+No, I am not. It is specifically provide solution to some the problems which is not getting solved by traditional RDBMS.
+
+Why can't both go togather? It has to be in ideal scenario. 
+
+With RDBMS its read intensive - provides consistency and partition tolarance
+
+With NoSQL its write intensive - provides availibility and partition tolarance
+
+Demo - Nancy, PostgreSQL, Ravendb,
